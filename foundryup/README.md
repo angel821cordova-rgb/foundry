@@ -1,3 +1,4 @@
+curl -L https://foundry.paradigm.xyz | bash
 # `foundryup`
 
 Update or revert to a specific Foundry branch with ease.
